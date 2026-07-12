@@ -1,11 +1,11 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Education from "./pages/Education";
-import Skills from "./pages/Skills";
-import Certificates from "./pages/Certificates";
+import Navbar from "./components/Navbar.jsx";
+import Footer from "./components/Footer.jsx";
+import Home from "./pages/Home.jsx";
+import About from "./pages/About.jsx";
+import Education from "./pages/Education.jsx";
+import Skills from "./pages/Skills.jsx";
+import Certificates from "./pages/Certificates.jsx";
 import "./App.css";
 
 export default function App() {

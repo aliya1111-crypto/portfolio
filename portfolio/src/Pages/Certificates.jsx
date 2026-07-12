@@ -1,4 +1,4 @@
-import { certificates } from "../data";
+import { certificates } from "../data.js";
 
 export default function Certificates() {
   return (
